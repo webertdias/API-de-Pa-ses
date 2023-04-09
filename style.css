@@ -1,0 +1,19 @@
+body{
+    margin: 20px 200px;
+}
+
+#appearance{
+    margin-top: -20px;
+    float: right;
+}
+
+form{
+    margin-top: 40px;
+    float: right;
+}
+
+input{
+    padding: 5px 40px;
+    text-align: left;
+    border-radius: 5px;
+}

@@ -1,14 +1,25 @@
 body{
-    margin: 20px 200px;
+    margin: auto;
+}
+
+.header{
+    background-color:antiquewhite;
+    width: auto;
+    height: 60px;
+}
+
+h1{
+    font-weight: bolder;
 }
 
 #appearance{
-    margin-top: -20px;
+    margin: 0px 200px;
     float: right;
 }
 
 form{
     margin-top: 40px;
+    margin-right: 100px;
     float: right;
 }
 

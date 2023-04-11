@@ -22,7 +22,6 @@ h1{
 .option{
     float: right;
     margin: 10px 200px;
-    background-color: white;
 }
 
 input{
@@ -33,4 +32,15 @@ input{
     float: left;
     margin: 10px 100px;
 
+}
+
+img{
+    width: 220px;
+    height: 110px;
+    border-radius: 5px;
+}
+
+.america{
+    display: inline-flex;
+    padding: auto;
 }

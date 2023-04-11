@@ -1,15 +1,17 @@
 body{
-    margin: auto;
+    margin:auto;
+    background-color: rgb(243, 245, 245);
 }
 
 .header{
-    background-color:antiquewhite;
-    width: auto;
+    background-color:white;
     height: 60px;
 }
 
 h1{
-    font-weight: bolder;
+    font-weight: bold;
+    font-size: 20px;
+    text-align:inherit;
 }
 
 #appearance{
@@ -17,14 +19,18 @@ h1{
     float: right;
 }
 
-form{
-    margin-top: 40px;
-    margin-right: 100px;
+.option{
     float: right;
+    margin: 10px 200px;
+    background-color: white;
 }
 
 input{
     padding: 5px 40px;
     text-align: left;
-    border-radius: 5px;
+    border-radius: 2px;
+    border-color: white;
+    float: left;
+    margin: 10px 100px;
+
 }
